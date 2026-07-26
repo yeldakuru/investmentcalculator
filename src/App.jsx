@@ -18,7 +18,8 @@ function App() {
 
       return {
         ...prevUserInput,
-        [inputIdentifier]: newValue //state update for the specific input field that changed
+        [inputIdentifier]: +newValue //+ string to number conversion
+        //state update for the specific input field that changed
       };
     });
   }
