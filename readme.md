@@ -10,4 +10,4 @@ A simple investment calculator built with React. The application calculates year
 
 ## Preview
 
-![Investment Calculator](./public/investment-calculator.jpg)
+![Investment Calculator](./src/assets/investment-calculator.jpg)
